@@ -1,0 +1,1 @@
+/sbin/ipfw -q -f flush && /sbin/ipfw add 000010 allow ip from any to any

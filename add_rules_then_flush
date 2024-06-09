@@ -1,0 +1,4 @@
+#!/bin/sh
+sh ./rules_to_add
+sleep 10
+sh ./ipfw_flush

@@ -1,0 +1,1 @@
+kldload ipfw && /sbin/ipfw add 000010 allow ip from any to any

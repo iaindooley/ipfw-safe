@@ -1,0 +1,2 @@
+#!/bin/sh
+sh ./kldload_ipfw_then_allow &

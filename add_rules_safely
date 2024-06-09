@@ -1,0 +1,2 @@
+#!/bin/sh
+sh ./add_rules_then_flush &

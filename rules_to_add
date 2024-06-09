@@ -1,0 +1,2 @@
+#!/bin/sh
+/sbin/ipfw delete 00010
